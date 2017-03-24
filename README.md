@@ -2,7 +2,7 @@
 
 <img src="https://s.gravatar.com/avatar/2f7737f1340da6883f12e1a9e76fdf32.png" />
 
-Local: Eunápolis - Bahia | Idade: 19 anos
+Local: Eunápolis - Bahia | Idade: 20 anos
 
 Sou Programador PHP, brinco um pouco com C# e Python.
 As vezes é bom fazer um Hello Word com JAVA, enquanto isso criar um Painel admin inteiro com PHP, rsrsrs.
@@ -36,7 +36,7 @@ github: [https://github.com/Taffarel-Vitor](https://github.com/Taffarel-Vitor "p
 
 ## Formação
 
-* Estudante
+* Programador PHP
  
 
 --- 
