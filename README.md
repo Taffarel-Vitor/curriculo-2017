@@ -26,10 +26,13 @@ github: [https://github.com/Taffarel-Vitor](https://github.com/Taffarel-Vitor "p
 
 ## Frameworks
 
-*Laravel
-*Slim(minha paixão)
-*CodeIgniter
+* Laravel
+* Slim(minha paixão)
+* CodeIgniter
 
+## Projetos
+
+* Criando meu próprio CMS [https://github.com/Taffarel-Vitor/Painel-Admin-Para-Blog-Completo](https://github.com/Taffarel-Vitor/Painel-Admin-Para-Blog-Completo "CMS").
 
 ## Formação
 
