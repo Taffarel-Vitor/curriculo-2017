@@ -1,6 +1,6 @@
 # Taffarel Vitor Souza O. (currículo)
 
-<img src="https://s.gravatar.com/avatar/2f7737f1340da6883f12e1a9e76fdf32.png" />
+<img src="https://s.gravatar.com/avatar/2f7737f1340da6883f12e1a9e76fdf32.jpg" />
 
 Local: Eunápolis - Bahia | Idade: 20 anos
 
